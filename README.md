@@ -5,9 +5,11 @@
 
 <h2> // About me </h2>
 
-🟤 Currently a student at the **Bit Academy**\
+🟤 I am a student at the **Bit Academy**\
+🟤 Currently focussing on developing my data-engineering skills\
 🟤 Seeking to become a **Data scientist**\
-🟤 I like books, games, philosophy and music!
+🟤 I like books, games, philosophy, and music!\
+🟤 Fun fact: I am a tea addict
 <details>
 <summary> What I work with </summary>
 <br>
@@ -22,7 +24,7 @@
 
 <h4 align="center">Connect with me</h4>
 <p align="center"> 
-  <a href="joramswarts2003@gmail.com" >
+  <a href="mailto:joramswarts2003@gmail.com" >
     <img  alt="Gmail | Gmail" src="https://img.shields.io/badge/-Gmail-5e4330?logo=Gmail&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/joram-swarts/" >
