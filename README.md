@@ -1,18 +1,66 @@
-<h1 align="center">Hi 👋, I'm Joram</h1>
-<h3 align="center">A student at Bit academy</h3>
+<p align = center ><!-- Optional banner goes here--> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joramswarts&label=Profile%20views&color=0e75b6&style=flat" alt="joramswarts" /> </p>
+<div>
+<img align="right" width="450" alt="picture" src="https://i.imgur.com/FY23Wri.jpg"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joramswarts" alt="joramswarts" /></a> </p>
+<h2> // About me </h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/joram swarts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joram swarts" height="30" width="40" /></a>
-</p>
+🟤 Currently a student at the **Bit Academy**\
+🟤 Seeking to become a **Data scientist**\
+🟤 I like books, games, philosophy and music!
+<details>
+<summary> What I work with </summary>
+<br>
+<img src = "https://img.shields.io/badge/-XPS%2013%20plus-5e4330?logo=dell&logoColor=white&style=for-the-badge" alt = "xps" />  
+  
+  - Intel core i7
+  - Intel Iris Xe Graphics
+  - 32GB RAM 
+  - 1TB SSD
+  - Windows 11
+</details>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<h4 align="center">Connect with me</h4>
+<p align="center"> 
+  <a href="joramswarts2003@gmail.com" >
+    <img  alt="Gmail | Gmail" src="https://img.shields.io/badge/-Gmail-5e4330?logo=Gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/joram-swarts/" >
+    <img  alt="Gmail | Gmail" src="https://img.shields.io/badge/-Linkedin-5e4330?logo=Linkedin&logoColor=white&style=for-the-badge" />
+  </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joramswarts&show_icons=true&locale=en&layout=compact" alt="joramswarts" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joramswarts&show_icons=true&locale=en" alt="joramswarts" /></p>
+<h2>  // Skills  </h2>
+  
+- <h3> programming & markup languages </h3>
+  
+  <img src = "https://img.shields.io/badge/-Python-5e4330?logo=python&logoColor=white&style=for-the-badge" alt = "python" />
+  <img src = "https://img.shields.io/badge/-Jupyter-5e4330?logo=jupyter&logoColor=white&style=for-the-badge" alt = "Jupyter" />
+  <img src = "https://img.shields.io/badge/-PowerBi-5e4330?logo=PowerBi&logoColor=white&style=for-the-badge" alt = "PowerBi" />
+  <img src = "https://img.shields.io/badge/-Markdown-5e4330?logo=Markdown&logoColor=white&style=for-the-badge" alt = "PowerBi" />
+  <img src = "https://img.shields.io/badge/-mysql-5e4330?logo=mysql&logoColor=white&style=for-the-badge" alt = "PowerBi" />
+
+
+  
+  - <h4> currently learning </h4>
+    <img src = "https://img.shields.io/badge/-azure-5e4330?logo=microsoftazure&logoColor=white&style=for-the-badge" alt = "Azure" />
+    
+  
+- <h3>  frameworks & libraries </h3>
+  <img src = "https://img.shields.io/badge/-pandas-5e4330?logo=pandas&logoColor=white&style=for-the-badge" alt = "pandas" />
+  <img src = "https://img.shields.io/badge/-numpy-5e4330?logo=numpy&logoColor=white&style=for-the-badge" alt = "Numpy" />
+  
+- <h3> tools </h3>
+  <img src = "https://img.shields.io/badge/-git-5e4330?logo=git&logoColor=white&style=for-the-badge" alt = "git" />
+  <img src = "https://img.shields.io/badge/-vscode-5e4330?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt = "vscode" />
+  <img src = "https://img.shields.io/badge/-Kaggle-5e4330?logo=kaggle&logoColor=white&style=for-the-badge" alt = "Kaggle" />
+  <img src = "https://img.shields.io/badge/-xampp-5e4330?logo=xampp&logoColor=white&style=for-the-badge" alt = "xampp" />
+  <img src = "https://img.shields.io/badge/-Chrome-5e4330?logo=googlechrome&logoColor=white&style=for-the-badge" alt = "Chrome" />
+
+  
+<!---
+
+--->
+
+
+---
