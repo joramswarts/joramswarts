@@ -1,7 +1,7 @@
 <p align = center ><!-- Optional banner goes here--> </p>
 
 <div>
-<img align="right" width="450" alt="picture" src="https://i.imgur.com/FY23Wri.jpg"/>
+<img align="right" width="425" alt="picture" src="https://i.imgur.com/FY23Wri.jpg"/>
 
 <h2> // About me </h2>
 
