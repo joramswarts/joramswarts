@@ -1,7 +1,7 @@
 <p align = center ><!-- Optional banner goes here--> </p>
 
 <div>
-<img align="right" width="400" alt="picture" src="https://i.imgur.com/FY23Wri.jpg"/>
+<img align="right" width="450" alt="picture" src="https://i.imgur.com/FY23Wri.jpg"/>
 
 <h2> // About me </h2>
 
@@ -21,7 +21,6 @@
   - 1TB SSD
   - Windows 11
 </details>
-
 
 <h2>  // Skills  </h2>
   
@@ -50,14 +49,14 @@
   <img src = "https://img.shields.io/badge/-xampp-5e4330?logo=xampp&logoColor=white&style=for-the-badge" alt = "xampp" />
   <img src = "https://img.shields.io/badge/-Chrome-5e4330?logo=googlechrome&logoColor=white&style=for-the-badge" alt = "Chrome" />
 
-
-<h2>// Connect with me</h2>
+<h2>// Connect with me </h2>
   <a href="mailto:joramswarts2003@gmail.com" >
     <img align="center" alt="Gmail | Gmail" src="https://img.shields.io/badge/-Gmail-5e4330?logo=Gmail&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/joram-swarts/" >
     <img align="center" alt="Gmail | Gmail" src="https://img.shields.io/badge/-Linkedin-5e4330?logo=Linkedin&logoColor=white&style=for-the-badge" />
   </a>
+</details>
 <!---
 
 --->
