@@ -11,15 +11,15 @@
 🟤 I like books, games, philosophy, and music!
 
 <details>
-<summary> What I work with </summary>
+<summary> Connect with me </summary>
 <br>
-<img src = "https://img.shields.io/badge/-XPS%2013%20plus-5e4330?logo=dell&logoColor=white&style=for-the-badge" alt = "xps" />  
-  
-  - Intel core i7
-  - Intel Iris Xe Graphics
-  - 32GB RAM 
-  - 1TB SSD
-  - Windows 11
+  <a href="mailto:joramswarts2003@gmail.com" >
+    <img align="center" alt="Gmail | Gmail" src="https://img.shields.io/badge/-Gmail-5e4330?logo=Gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/joram-swarts/" >
+    <img align="center" alt="Gmail | Gmail" src="https://img.shields.io/badge/-Linkedin-5e4330?logo=Linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+</details>
 </details>
 
 <h2>  // Skills  </h2>
@@ -49,14 +49,18 @@
   <img src = "https://img.shields.io/badge/-xampp-5e4330?logo=xampp&logoColor=white&style=for-the-badge" alt = "xampp" />
   <img src = "https://img.shields.io/badge/-Chrome-5e4330?logo=googlechrome&logoColor=white&style=for-the-badge" alt = "Chrome" />
 
-<h2>// Connect with me </h2>
-  <a href="mailto:joramswarts2003@gmail.com" >
-    <img align="center" alt="Gmail | Gmail" src="https://img.shields.io/badge/-Gmail-5e4330?logo=Gmail&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/joram-swarts/" >
-    <img align="center" alt="Gmail | Gmail" src="https://img.shields.io/badge/-Linkedin-5e4330?logo=Linkedin&logoColor=white&style=for-the-badge" />
-  </a>
+<details>
+<summary><h3> What I work with </h3></summary>
+<br>
+<img src = "https://img.shields.io/badge/-XPS%2013%20plus-5e4330?logo=dell&logoColor=white&style=for-the-badge" alt = "xps" />  
+  
+  - Intel core i7
+  - Intel Iris Xe Graphics
+  - 32GB RAM 
+  - 1TB SSD
+  - Windows 11
 </details>
+
 <!---
 
 --->
