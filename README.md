@@ -36,6 +36,7 @@
   
   - <h4> currently learning </h4>
     <img src = "https://img.shields.io/badge/-azure-5e4330?logo=microsoftazure&logoColor=white&style=for-the-badge" alt = "Azure" />
+    <img src = "https://img.shields.io/badge/-Python-5e4330?logo=python&logoColor=white&style=for-the-badge" alt = "python" />
     
   
 - <h3>  frameworks & libraries </h3>
